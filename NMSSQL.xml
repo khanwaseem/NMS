@@ -1,0 +1,11 @@
+<data>
+   <items>
+	  <item name1="SQL_SERVER">WKHAN-1</item>
+	  <item name2="SQL_USER">sa</item>
+	  <item name3="SQL_PASSWORD">sql@2019</item>
+	  <item name4="CYCLE_TIME">100</item>
+	  <item name5="SendUrl">http://192.168.0.84:6086/VaaaN/NMSv2-Events/ReceivedStatus</item>
+	  <item name5="SendUrl">http://192.168.0.84:6086/VaaaN/NMSv2/DeviceListbyLocation?LocationId=1</item>
+	  <item name5="UtilSendUrl">http://192.168.0.84:6086/VaaaN/NMSv2-Events/ReceivedSwitchUtilization</item>
+   </items>
+</data>
