@@ -1,0 +1,8 @@
+<data>
+   <items>
+	  <item name1="SQL_SERVER">192.168.0.108</item>
+	  <item name2="SQL_USER">162</item>
+	  <item name2="TrapApi">http://192.168.0.84:6086/VaaaN/NMSv2-Events/ReceivedTrapingStatus</item>
+	  <item name5="ReceiveUrl">http://192.168.0.84:6086/VaaaN/NMSv2/DeviceListbyLocation?LocationId=1</item>
+   </items>
+</data>
