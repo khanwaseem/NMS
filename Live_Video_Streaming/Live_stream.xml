@@ -1,0 +1,8 @@
+<data>
+   <items>
+      <item name1="USERNAME">admin</item>
+	  <item name3="PASSWORD">admin</item>
+	  <item name2="IP">192.168.43.180</item>
+	  <item name2="PORT">5514</item>
+   </items>
+</data>
